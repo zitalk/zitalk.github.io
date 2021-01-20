@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zzx9875.github.io/2021/01/20/Note-Boostrap-Callout-test/</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzx9875.github.io/2021/01/18/button-test/</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzx9875.github.io/2021/01/20/tabs-test/</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzx9875.github.io/2021/01/19/LaTex-Test/</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzx9875.github.io/2021/01/18/my-first-hexo-page/</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzx9875.github.io/2021/01/20/tag-hide-test/</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzx9875.github.io/2021/01/20/photo-test/</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zzx9875.github.io/about/index.html</loc>
     
     <lastmod>2021-01-19</lastmod>
@@ -16,28 +65,7 @@
   </url>
   
   <url>
-    <loc>https://zzx9875.github.io/2021/01/19/LaTex-Test/</loc>
-    
-    <lastmod>2021-01-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zzx9875.github.io/2021/01/18/test-second-page/</loc>
-    
-    <lastmod>2021-01-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zzx9875.github.io/2021/01/18/hello-world/</loc>
-    
-    <lastmod>2021-01-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zzx9875.github.io/2021/01/18/my-first-hexo-page/</loc>
     
     <lastmod>2021-01-19</lastmod>
     
@@ -74,14 +102,14 @@
 
   
   <url>
-    <loc>https://zzx9875.github.io/tags/%E5%A4%A7%E7%83%A7%E9%A5%BC/</loc>
+    <loc>https://zzx9875.github.io/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/</loc>
     <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://zzx9875.github.io/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/</loc>
+    <loc>https://zzx9875.github.io/tags/%E5%A4%A7%E7%83%A7%E9%A5%BC/</loc>
     <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -95,5 +123,12 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://zzx9875.github.io/categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
+    <lastmod>2021-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
